@@ -15,6 +15,13 @@ Python 3.11.
 If you are using Google Colab, it typically runs Python 3.8 or 3.9, which should be perfectly suitable for this script.
 Execute the code cell or run the script to start the simulations.
 
+Required Python Packages:
+
+Jupyter Notebook: To run the notebook.
+matplotlib: For plotting the training progress.
+numpy: For numerical operations.
+IPython: For the clear_output function, which helps clear the output in the notebook.
+
 Customization:
 
 You can customize the parameters of the simulations to suit your needs:

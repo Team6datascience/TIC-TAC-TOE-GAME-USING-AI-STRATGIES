@@ -11,7 +11,7 @@ Python 3.7,
 Python 3.8,
 Python 3.9,
 Python 3.10,
-Python 3.11
+Python 3.11.
 If you are using Google Colab, it typically runs Python 3.8 or 3.9, which should be perfectly suitable for this script.
 Execute the code cell or run the script to start the simulations.
 

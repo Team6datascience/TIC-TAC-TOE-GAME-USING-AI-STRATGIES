@@ -18,8 +18,11 @@ Execute the code cell or run the script to start the simulations.
 Required Python Packages:
 
 Jupyter Notebook: To run the notebook.
+
 matplotlib: For plotting the training progress.
+
 numpy: For numerical operations.
+
 IPython: For the clear_output function, which helps clear the output in the notebook.
 
 Customization:
